@@ -1,140 +1,269 @@
-🛒 IKEA E-Commerce Database Management System
-📌 Project Overview
+# 🛒 IKEA E-Commerce Database Management System
 
-This project is a comprehensive Database Management System (DBMS) designed for an IKEA-inspired E-Commerce platform. It models the complete workflow of an online shopping system, from customer registration and product browsing to order processing, payment, shipment, inventory management, and AI-powered product recommendations.
+> **A portfolio-level Database Management System (DBMS) project that models the complete workflow of an IKEA-inspired e-commerce platform using real-world database design principles.**
 
-The project is being developed as part of my B.Sc. Computer Science with Artificial Intelligence (Semester 3) coursework while also being enhanced into a portfolio-level project that follows real-world database design practices.
+---
 
-🎯 Objectives
-Design a scalable and normalized database for an e-commerce platform.
-Understand the complete workflow of an online shopping system.
-Learn database design from requirement analysis to SQL implementation.
-Apply database normalization concepts.
-Build a portfolio-ready project for GitHub and future interviews.
-🚀 Features
-Customer Management
-Customer Registration
-Multiple Customer Addresses
-Shopping Cart
-Wishlist
-Notifications
-Product Management
-Product Catalog
-Categories
-Suppliers
-Product Images
-Warehouse Management
-Inventory Tracking
-Order Management
-Order Processing
-Order Items
-Coupons
-Payment Management
-Shipment Tracking
-Return Requests
-Order Status History
-Customer Experience
-Product Reviews
-AI Product Recommendations
-AI Search History
-Business Analytics
-Sales Analytics
-Product Popularity Tracking
-🗂 Database Modules
-Customer Module
-Product Module
-Inventory Module
-Shopping Module
-Order Module
-Payment Module
-Shipment Module
-AI Recommendation Module
-Analytics Module
-Administration Module
-🛠 Tools Used
-DBDiagram.io – ER Diagram Design
-Microsoft Word – Project Documentation
-GitHub – Version Control
-Oracle SQL (Upcoming)
-📚 Progress
-✅ Week 1 – Requirement Analysis
-Project Selection (IKEA E-Commerce)
-Introduction
-Problem Statement
-Stakeholders
-Objectives
-Business Requirements
-Functional Requirements
-Non-Functional Requirements
-Project Motivation
-✅ Week 2 – Database Analysis
-Entity Identification
-Entity Attributes
-Primary Keys
-Foreign Keys
-Relationship Identification
-Relationship Explanation
-✅ Week 3 – Database Design
-Entity Relationship (ER) Diagram
-Relational Schema
-Portfolio-Level Database Architecture
-Advanced Database Normalization
-AI Module Design
-Analytics Module Design
-Complete E-Commerce Workflow Design
-📊 Database Statistics
-Description	Count
-Total Tables	24+
-Primary Keys	24+
-Foreign Keys	20+
-Database Modules	10
-📈 Project Workflow
+# 📌 Project Overview
+
+The **IKEA E-Commerce Database Management System** is a comprehensive database design project that simulates the operations of a modern online shopping platform. The database is designed to efficiently manage customers, products, inventory, orders, payments, shipments, and AI-powered recommendation features.
+
+This project is being developed as part of my **B.Sc. Computer Science with Artificial Intelligence (Semester III)** coursework while being expanded into a **portfolio-quality project** that demonstrates industry-standard database design, normalization techniques, and scalable architecture.
+
+---
+
+# 🎯 Project Objectives
+
+* Design a scalable and normalized relational database.
+* Model the complete workflow of an e-commerce platform.
+* Apply real-world database design principles.
+* Practice ER modeling and relational schema design.
+* Implement database normalization (1NF, 2NF, 3NF, BCNF).
+* Build a portfolio-ready DBMS project for GitHub and technical interviews.
+
+---
+
+# 🚀 Key Features
+
+## 👤 Customer Management
+
+* Customer Registration
+* User Authentication
+* Multiple Customer Addresses
+* Wishlist Management
+* Shopping Cart
+* Customer Notifications
+
+## 🛍 Product Management
+
+* Product Catalog
+* Categories
+* Suppliers
+* Product Images
+* Product Specifications
+
+## 📦 Inventory Management
+
+* Warehouse Management
+* Stock Tracking
+* Inventory Updates
+* Low Stock Monitoring
+
+## 🛒 Order Management
+
+* Order Processing
+* Order Items
+* Coupons & Discounts
+* Order Status Tracking
+* Order History
+
+## 💳 Payment Management
+
+* Payment Records
+* Multiple Payment Methods
+* Payment Status
+
+## 🚚 Shipment Management
+
+* Shipment Tracking
+* Delivery Status
+* Return Requests
+
+## ⭐ Customer Experience
+
+* Product Reviews & Ratings
+* Customer Feedback
+
+## 🤖 AI Features
+
+* AI Product Recommendations
+* Search History Analysis
+* Personalized Suggestions
+
+## 📊 Business Analytics
+
+* Sales Analytics
+* Product Popularity Tracking
+* Customer Purchase Analysis
+
+---
+
+# 🗂 Database Modules
+
+* Customer Module
+* Product Module
+* Category Module
+* Supplier Module
+* Inventory Module
+* Shopping Module
+* Order Module
+* Payment Module
+* Shipment Module
+* AI Recommendation Module
+* Analytics Module
+* Administration Module
+
+---
+
+# 🏗 Database Design Workflow
+
+```text
 Requirement Analysis
-        ↓
+        │
+        ▼
 Entity Identification
-        ↓
+        │
+        ▼
+Relationship Analysis
+        │
+        ▼
 ER Diagram Design
-        ↓
+        │
+        ▼
 Relational Schema
-        ↓
-SQL Database Implementation
-        ↓
-Sample Data Insertion
-        ↓
-SQL Queries
-        ↓
-Frontend Integration
-        ↓
-AI Recommendation System
-🎯 Future Scope
-SQL Database Implementation
-Stored Procedures
-Triggers
-Views
-HTML/CSS Frontend
-Python Backend
-AI Recommendation Engine
-Admin Dashboard
-Deployment
-📖 Learning Outcomes
-
-Through this project, I have learned:
-
-Database Design
-ER Diagram Modeling
-Relational Schema Design
-Primary & Foreign Keys
+        │
+        ▼
 Database Normalization
-E-Commerce Database Architecture
-Inventory Management
-AI Integration Concepts
-Real-World Database Planning
-👩‍💻 Author
+        │
+        ▼
+SQL Implementation
+        │
+        ▼
+Sample Data Population
+        │
+        ▼
+SQL Queries
+        │
+        ▼
+Frontend Integration
+        │
+        ▼
+AI Recommendation System
+```
 
-S. Rupa
+---
 
-B.Sc. Computer Science with Artificial Intelligence
+# 📚 Project Progress
 
-Semester III
+## ✅ Week 1 – Requirement Analysis
 
-SDNB Vaishnav College for Women
+* Project Selection
+* Introduction
+* Problem Statement
+* Stakeholder Analysis
+* Business Requirements
+* Functional Requirements
+* Non-Functional Requirements
+* Project Objectives
+* Project Motivation
+
+---
+
+## ✅ Week 2 – Database Analysis
+
+* Entity Identification
+* Attribute Identification
+* Primary Keys
+* Foreign Keys
+* Relationship Identification
+* Relationship Explanation
+
+---
+
+## ✅ Week 3 – Database Design
+
+* Entity Relationship (ER) Diagram
+* Relational Schema
+* Database Architecture
+* Database Normalization
+* AI Recommendation Module Design
+* Analytics Module Design
+* Complete E-Commerce Workflow
+
+---
+
+# 📊 Database Statistics
+
+| Component           |      Count |
+| ------------------- | ---------: |
+| Total Tables        |        24+ |
+| Primary Keys        |        24+ |
+| Foreign Keys        |        20+ |
+| Database Modules    |        10+ |
+| Relationships       |        40+ |
+| Normalization Level | Up to BCNF |
+
+---
+
+# 🛠 Technology Stack
+
+| Tool           | Purpose                              |
+| -------------- | ------------------------------------ |
+| DBDiagram.io   | ER Diagram Design                    |
+| Oracle SQL     | Database Implementation *(Upcoming)* |
+| Microsoft Word | Documentation                        |
+| GitHub         | Version Control                      |
+
+---
+
+# 🎯 Future Scope
+
+* Oracle SQL Implementation
+* Stored Procedures
+* Functions
+* Triggers
+* Views
+* Advanced SQL Queries
+* Sample Database Records
+* HTML/CSS Frontend
+* Python Backend
+* AI Recommendation Engine
+* Admin Dashboard
+* Business Analytics Dashboard
+* Project Deployment
+
+---
+
+# 📖 Learning Outcomes
+
+This project strengthened my understanding of:
+
+* Database Design
+* Requirement Analysis
+* ER Diagram Modeling
+* Relational Schema Design
+* Primary & Foreign Keys
+* Database Normalization
+* SQL Database Architecture
+* Inventory Management Systems
+* E-Commerce Database Design
+* AI Integration Concepts
+* Real-World Database Planning
+
+---
+
+# 🌟 Project Highlights
+
+* Industry-inspired IKEA E-Commerce database
+* Portfolio-quality database architecture
+* Real-world business workflow modeling
+* AI-ready recommendation module
+* Highly normalized relational database
+* Scalable and maintainable design
+* Interview-ready DBMS project
+
+---
+
+# 👩‍💻 Author
+
+**S. Rupa**
+
+**B.Sc. Computer Science with Artificial Intelligence**
+
+**Semester III**
+
+**SDNB Vaishnav College for Women**
+
+---
+
+## ⭐ If you found this project interesting, consider giving it a Star on GitHub!
