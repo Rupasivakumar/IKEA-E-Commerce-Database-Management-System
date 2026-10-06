@@ -883,3 +883,13 @@ SQL> COMMIT;
 
 Commit complete.
 
+UPDATE Category
+SET Description = 'Ergonomic furniture and accessories for modern home offices'
+WHERE Category_ID = 5;
+
+DELETE FROM Category
+WHERE Category_ID = 9;
+
+
+
+
