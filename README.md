@@ -1,10 +1,10 @@
-# 🛒 IKEA E-Commerce Database Management System
+#  IKEA E-Commerce Database Management System
 
 > **A portfolio-level Database Management System (DBMS) project that models the complete workflow of an IKEA-inspired e-commerce platform using real-world database design principles.**
 
 ---
 
-# 📌 Project Overview
+# Project Overview
 
 The **IKEA E-Commerce Database Management System** is a comprehensive database design project that simulates the operations of a modern online shopping platform. The database is designed to efficiently manage customers, products, inventory, orders, payments, shipments, and AI-powered recommendation features.
 
@@ -12,7 +12,7 @@ This project is being developed as part of my **B.Sc. Computer Science with Arti
 
 ---
 
-# 🎯 Project Objectives
+# Project Objectives
 
 * Design a scalable and normalized relational database.
 * Model the complete workflow of an e-commerce platform.
@@ -23,9 +23,9 @@ This project is being developed as part of my **B.Sc. Computer Science with Arti
 
 ---
 
-# 🚀 Key Features
+#  Key Features
 
-## 👤 Customer Management
+##  Customer Management
 
 * Customer Registration
 * User Authentication
@@ -34,7 +34,7 @@ This project is being developed as part of my **B.Sc. Computer Science with Arti
 * Shopping Cart
 * Customer Notifications
 
-## 🛍 Product Management
+##  Product Management
 
 * Product Catalog
 * Categories
@@ -42,14 +42,14 @@ This project is being developed as part of my **B.Sc. Computer Science with Arti
 * Product Images
 * Product Specifications
 
-## 📦 Inventory Management
+##  Inventory Management
 
 * Warehouse Management
 * Stock Tracking
 * Inventory Updates
 * Low Stock Monitoring
 
-## 🛒 Order Management
+##  Order Management
 
 * Order Processing
 * Order Items
@@ -57,30 +57,30 @@ This project is being developed as part of my **B.Sc. Computer Science with Arti
 * Order Status Tracking
 * Order History
 
-## 💳 Payment Management
+##  Payment Management
 
 * Payment Records
 * Multiple Payment Methods
 * Payment Status
 
-## 🚚 Shipment Management
+## Shipment Management
 
 * Shipment Tracking
 * Delivery Status
 * Return Requests
 
-## ⭐ Customer Experience
+##  Customer Experience
 
 * Product Reviews & Ratings
 * Customer Feedback
 
-## 🤖 AI Features
+##  AI Features
 
 * AI Product Recommendations
 * Search History Analysis
 * Personalized Suggestions
 
-## 📊 Business Analytics
+##  Business Analytics
 
 * Sales Analytics
 * Product Popularity Tracking
@@ -88,7 +88,7 @@ This project is being developed as part of my **B.Sc. Computer Science with Arti
 
 ---
 
-# 🗂 Database Modules
+#  Database Modules
 
 * Customer Module
 * Product Module
@@ -105,7 +105,7 @@ This project is being developed as part of my **B.Sc. Computer Science with Arti
 
 ---
 
-# 🏗 Database Design Workflow
+# Database Design Workflow
 
 ```text
 Requirement Analysis
@@ -143,9 +143,9 @@ AI Recommendation System
 
 ---
 
-# 📚 Project Progress
+#  Project Progress
 
-## ✅ Week 1 – Requirement Analysis
+##  Week 1 – Requirement Analysis
 
 * Project Selection
 * Introduction
@@ -159,7 +159,7 @@ AI Recommendation System
 
 ---
 
-## ✅ Week 2 – Database Analysis
+##  Week 2 – Database Analysis
 
 * Entity Identification
 * Attribute Identification
@@ -170,7 +170,7 @@ AI Recommendation System
 
 ---
 
-## ✅ Week 3 – Database Design
+##  Week 3 – Database Design
 
 * Entity Relationship (ER) Diagram
 * Relational Schema
@@ -182,7 +182,7 @@ AI Recommendation System
 
 ---
 
-# 📊 Database Statistics
+#  Database Statistics
 
 | Component           |      Count |
 | ------------------- | ---------: |
@@ -195,7 +195,7 @@ AI Recommendation System
 
 ---
 
-# 🛠 Technology Stack
+#  Technology Stack
 
 | Tool           | Purpose                              |
 | -------------- | ------------------------------------ |
@@ -206,7 +206,7 @@ AI Recommendation System
 
 ---
 
-# 🎯 Future Scope
+#  Future Scope
 
 * Oracle SQL Implementation
 * Stored Procedures
@@ -224,7 +224,7 @@ AI Recommendation System
 
 ---
 
-# 📖 Learning Outcomes
+#  Learning Outcomes
 
 This project strengthened my understanding of:
 
@@ -242,7 +242,7 @@ This project strengthened my understanding of:
 
 ---
 
-# 🌟 Project Highlights
+#  Project Highlights
 
 * Industry-inspired IKEA E-Commerce database
 * Portfolio-quality database architecture
@@ -254,7 +254,7 @@ This project strengthened my understanding of:
 
 ---
 
-# 👩‍💻 Author
+# Author
 
 **S. Rupa**
 
